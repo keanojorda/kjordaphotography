@@ -1,0 +1,41 @@
+.navbar-brand-logo{
+    max-height: 43px;
+}
+
+.bg-primary {
+    background-color: #b5e1ff !important;
+}
+
+.nav-link-text{
+    text-transform: uppercase;
+    font-size: 0.7142em;
+    padding: 0.5rem 0.7rem;
+    line-height: 1.625rem;
+    vertical-align: middle;
+}
+
+.navbar p{
+    color: #fff;
+}
+
+.kj-logo{
+    max-width: 10rem;
+    margin-bottom: 40px;
+}
+
+.circle-profile-picture{
+    display:flex;
+    justify-content: center;
+    max-width: 200px;
+    max-height: 200px;
+    margin: auto;
+}
+
+.section-about-us .collections img{
+    margin-bottom: 30px;;
+}
+
+.footer-icons{
+    margin-top: 0.5rem;
+    padding-right: 2px;
+}
